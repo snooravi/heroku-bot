@@ -6,8 +6,8 @@ import time
 # Twitter API Keys
 consumer_key = "LlzsA67oaAJb0VXVoHsPEAIwi"
 consumer_secret = "FqK2BTszDxMAUCRvuCYDbXReqwTixu2yyk35ODikepsmotBTPa"
-access_token = "913158636133801984-qOj7tKLMpDQaMYiE97ZYdu8OlF7nO9q"
-access_token_secret = "YwWNbpxqwZ8iFYvwQrvEzflt4CZTaj2Cnbn0VFZkTpTtJ"
+access_token = "913158636133801984-XHmrimxFhktqMICtrJih7RH6XCm3tyl"
+access_token_secret = "LIOecT8R9ZhOpDODHQ4BKa4aCyZDQrPt0fnv3BeYj16aI"
 
 # Setup Tweepy API Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
