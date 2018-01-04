@@ -21,7 +21,6 @@ def TweetOut(tweet_number):
         "Can't stop. Won't stop. Chatting! This is Tweet #%s!" %
         tweet_number)
 
-
 # Create a function that calls the TweetOut function every minute
 counter = 0
 
@@ -37,4 +36,5 @@ while(True):
     # Add 1 to the counter prior to re-running the loop
     counter = counter + 1
 
+    print('tweet')
     print('tweet')
